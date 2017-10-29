@@ -10,7 +10,7 @@ In this project,  we will go through the Data analysis process of a dataset name
 ## Contents
 
 <li>Preetinder Kalsi - Udacity Project 4 - Investigate a Dataset.ipynb</li>
-<li>iPreetinder+Kalsi+-+Udacity+Project+4+-+Investigate+a+Dataset.html</li>
+<li>Preetinder+Kalsi+-+Udacity+Project+4+-+Investigate+a+Dataset.html</li>
 <li>README.md</li>
 
 ## Presentation
